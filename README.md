@@ -1,4 +1,4 @@
-### Hello, I'm Wit. I'm a 4th-year computer engineering student at KMUTT. 👋
+## Hello, I'm Wit. I'm a 4th-year computer engineering student at KMUTT. 👋
 
 I enjoy researching and solving problems. I am good at adapting to new environment and working under pressure.
 I am also interested in pursuing degree program in Business Administration.
@@ -10,14 +10,14 @@ I am also interested in pursuing degree program in Business Administration.
 ⚡My Past Project can be found on my GitHub, "github.com/BiKajoin". And you can visit my team project from the link listed below:
 
 
-  # 👯 Sleepy Project: 
+  ### 👯 Sleepy Project: 
   
   Source: github.com/Phyke/SleepyPoker
   
   The project is about a multiplayer card game based on, Poker, running on Node.js. I'm responsible for designing the system and game rules. I also worked as QA Tester   for testing the logic of the game. 
   
 
-  # 👯 Hotel Reservation: 
+  ### 👯 Hotel Reservation: 
   
   Source: github.com/DIALQGUE/HotelReservation
   
