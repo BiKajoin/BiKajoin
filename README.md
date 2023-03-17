@@ -10,6 +10,7 @@ I am also interested in pursuing degree program in Business Administration.
   👯 Sleepy Project: 
   
   Source: github.com/Phyke/SleepyPoker
+  
   The project is about a multiplayer card game based on, Poker, running on Node.js. I'm responsible for designing the system and game rules. I also worked as QA Tester   for testing the logic of the game. 
 
   👯 Hotel Reservation:
