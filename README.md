@@ -10,12 +10,13 @@ I am also interested in pursuing degree program in Business Administration.
   👯 Sleepy Project: 
   
   Source: github.com/Phyke/SleepyPoker
-  The project is about a multiplayer card game based on, Poker, running on Node.js. I'm responsible for designing the system and game rules. I also worked as QA Tester    for testing the logic of the game. 
+  The project is about a multiplayer card game based on, Poker, running on Node.js. I'm responsible for designing the system and game rules. I also worked as QA Tester   for testing the logic of the game. 
 
   👯 Hotel Reservation:
   
   Source: github.com/DIALQGUE/HotelReservation
-  The project is about a CLI application for a hotel reservation system focusing on object-oriented design and analysis. I'm responsible for doing object-oriented        design   designing class diagrams and usecase narratives.
+  
+  The project is about a CLI application for a hotel reservation system focusing on object-oriented design and analysis. I'm responsible for doing object-oriented       design   designing class diagrams and usecase narratives.
 
 
 <!--
